@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project analyzes four years of sales data (2022–2025) for EmporiUm, a virtual student bookstore operating across in-store and online channels. The report was built for the East region sales team — covering Massachusetts, Maine, New Jersey, New York, and Connecticut — to support data-driven business decisions around inventory, category performance, and regional strategy.
+This project analyzes four years of sales data (2022–2025) for EmporiUm, a virtual student bookstore operating across in-store and online channels. The report was built for the East region sales team — covering New Jersey and New York to support data-driven business decisions around inventory, category performance, and regional strategy.
 
 ---
 
