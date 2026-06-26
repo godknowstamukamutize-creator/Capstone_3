@@ -10,22 +10,16 @@ This project analyzes four years of sales data (2022–2025) for EmporiUm, a vir
 
 ---
 
-## Report Link
-
-> 📊 [View the published Power BI report](#) ← _Replace # with your Power BI Service URL_
-
----
-
 ## Video Walkthrough
 
-> 🎥 [Watch the 10-minute project video](#) ← _Replace # with your video link (YouTube, Loom, etc.)_
+> 🎥https://1drv.ms/v/c/1aadc79da8212a75/IQDrZ5G8MxlVQrVpHeE8A3kJAYRIZ88kJThG-M0Utwc_FDM?e=TDOSWO
 
 ---
 
 ## Key Insights
 
-- **Technology is the top-selling category** in the East region by a significant margin, making it the most critical category for inventory planning.
-- **New York drives the largest share of regional revenue**, followed by Massachusetts and New Jersey.
+- **Technology is the top-selling category** in the East region by a significant margin, making it the most critical category for inventory planning. 
+- **New York drives the largest share of regional revenue**, followed by New Jersey.
 - **Sales peak in August–September** each year, consistent with back-to-school demand, with a secondary spike in January at the start of the spring semester.
 - **Top-selling general books** reflect diverse customer interests across fiction, non-fiction, and self-development titles.
 
